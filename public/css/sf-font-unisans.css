@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'UniSans';
+    src: url('/packages/larakit/sf-font-unisans/fonts/uni_sans_thin.eot');
+    src: url('/packages/larakit/sf-font-unisans/fonts/uni_sans_thin.eot?#iefix') format('embedded-opentype'),
+    url('/packages/larakit/sf-font-unisans/fonts/uni_sans_thin.woff') format('woff'),
+    url('/packages/larakit/sf-font-unisans/fonts/uni_sans_thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UniSans';
+    src: url('/packages/larakit/sf-font-unisans/fonts/uni_sans_heavy.eot');
+    src: url('/packages/larakit/sf-font-unisans/fonts/uni_sans_heavy.eot?#iefix') format('embedded-opentype'),
+    url('/packages/larakit/sf-font-unisans/fonts/uni_sans_heavy.woff') format('woff'),
+    url('/packages/larakit/sf-font-unisans/fonts/uni_sans_heavy.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
