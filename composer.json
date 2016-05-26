@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-font-unisans",
+    "description": "[Larakit] [staticfiles] [fonts] UniSans",
+    "license": "MIT",
+    "version": "1.0.0",
+    "require": {
+        "larakit/lk-staticfiles": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
